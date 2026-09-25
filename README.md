@@ -118,7 +118,7 @@ docker compose up --force-recreate -d
 
 ---
 
-## 🛟 Support 
+## 🛟 Support #
 
 <p align="center">
   <a href="https://github.com/umami-software/umami"><img src="https://img.shields.io/badge/GitHub--blue?style=social&logo=github" alt="GitHub" /></a>
